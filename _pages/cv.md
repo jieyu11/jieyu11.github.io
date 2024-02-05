@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical and Electronical Engineering, Shanghai University, 2006
+* Ph.D in Physics, University of Paris-XI, France \& Nanjing University, China, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+1/2023 -- Now
+:    Software Developer Engineer, *Amazon AWS*
+     * Developed and deployed new features for AWS IoT services to connect IoT devices to the AWS capabilities.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+4/2020 -- 1/2023
+:    Data Scientist / Machine Learning Engineer, *SFL Scientific, a Deloitte Business*
+     * Designed, built, implemented and evaluated machine learning algorithms capable of learning and making predictions to solve real-world problems.
+
+7/2019 -- 4/2020
+:    Data Scientist, *MindMics Inc*
+     * Developed algorithms to analyze time series data which eventually leads to a precise measurement of human vital signs.
+
+8/2011 -- 6/2019
+:    Researcher, *European Organization for Nuclear Research (CERN)*
+     * Conducted in-depth analysis on big data of particle physics, delving into the exploration for new physics beyond the standard model.
   
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning: PyTorch, Tensorflow, SciKit-Learn, HuggingFace
+    * Natural Language Processing: Large Language Models, GPT, GPT-2, BERT
+    * Computer Vision: Object Detection, Object Segmentation, 3D Human Reconstruction, Vision Transformer
+    * Statistical Analysis: Statistical Inference, Hypothesis Testing, Exploratory Data Analysis
+* Coding: Python, C++, Java, Shell
+* Other skills: Docker, Git, Latex
+
 
 Projects
 ======
